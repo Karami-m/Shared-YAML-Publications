@@ -1042,9 +1042,17 @@ papers:
 
   - title: "Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling"
     authors: "Karami, Mahdi, Ghodsi, Ali"
-    venue: "arXiv preprint arXiv:2402.18508"
-    #paper_pdf: ""
-    #code: ""
+    venue: "Thirty-eighth Conference on Advances in Neural Information Processing Systems (NeurIPS 2024)"
+    paper_pdf: "https://arxiv.org/abs/2402.18508"
+    code: "https://github.com/Karami-m/orchid"
+    #data: ""
+    selected: n
+
+  - title: "HiGen: Hierarchical Graph Generative Networks"
+    authors: "Karami, Mahdi"
+    venue: "The Twelfth International Conference on Learning Representations (ICLR 2024)"
+    paper_pdf: "https://arxiv.org/abs/2305.19337"
+    code: "https://github.com/Karami-m/HiGen_main"
     #data: ""
     selected: n
 
